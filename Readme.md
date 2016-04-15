@@ -1,3 +1,4 @@
+# parse-migration
 # ParseBrainCloudMigrationSample
 
 This is a sample app that demonstrate the work involved in migrating users from Parse to brainCloud progressively on an app per app basis.
@@ -26,6 +27,3 @@ pod install
 Edit `Configuration.swift` and add your Parse and brainCloud information. 
 
 Modify the `SyncUser.js` by adding with your Parse information and then add it to the CloudCode/Script seciton of the brainCloud portal for the desired game.
-
-
-
