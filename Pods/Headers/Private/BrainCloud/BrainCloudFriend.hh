@@ -1,0 +1,1 @@
+../../../BrainCloud/Shared/BrainCloudFriend.hh

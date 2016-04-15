@@ -1,0 +1,1 @@
+../../../BrainCloudCpp/Shared/BrainCloudFriend.h
