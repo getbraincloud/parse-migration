@@ -14,7 +14,7 @@ struct ParseConfig {
 }
 
 struct BrainCloudConfig {
-    static var serverURL = "https://sharedprod.braincloudservers.com/dispatcher"
+    static var serverURL = "https://api.braincloudservers.com/dispatcher"
     static var secretKey = "<brainCloud secret Key>"
     static var gameId = "<brainCloud Game Id>"
 }
